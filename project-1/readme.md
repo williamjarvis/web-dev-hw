@@ -13,4 +13,4 @@ I had trouble trying to center my image with the txt in project-1 repo. I also d
 
 I did not post any problems or issues to the repo. I am still new to this and am trying to figure out all of this. I do not feel confident enough with my own work yet to be helping my classmates out, with any issues, at this time.
 
-![Image of My Atom Editor](./images/screenshot.png)
+![Image of My Atom Editor](./images/screenshot.PNG)
