@@ -4,7 +4,7 @@
 
 Describe what a version control system is, and why we are using one in this class. A version control system is for tracking changes in computer files and coordinating work on those files with multiple other people. This enables the user to view the complete history of the repository. We are using this in our class so that we may go back and see our mistakes and correct them and so other classmates and our instructor may also see our progress.
 
-[responses.txt](https://github.com/williamjarvis/web-dev-hw.-/blob/master/assignment-2/responses.txt)
+[responses.txt](./responses.txt)
 
 **Summary of Work Cycle**
 
@@ -16,4 +16,4 @@ Describe what a version control system is, and why we are using one in this clas
 
 *No, I had no time to post any of my problems with the repo. I was not able to help any of my classmates out with this past homework cycle because I barely know what I am doing in this class so far because this is all new to me.
 
-![Screenshot.png](https://github.com/williamjarvis/web-dev-hw.-/blob/master/assignment-2/images/screenshot.png)
+![screenshot.png](./images/screenshot.png)
