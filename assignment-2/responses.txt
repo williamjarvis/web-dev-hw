@@ -1,0 +1,4 @@
+Briefly describe one way data travels on the internet.  Data is broken down into small packets at the senders end and reassembled at the receivers end.
+What is the relationship between an IP address and the DNS? The Domain Name Server identifies specific IP addresses.
+What is a Cookie? A small packet of information that is sent to your computer when you visit a website that Identify your computer and track its movement within that site.
+List the three basic parts of a URL. The protocol, the domain name and the path.
