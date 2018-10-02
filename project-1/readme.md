@@ -9,7 +9,7 @@ I visited February 19, 1997 on the Wayback Machine, of the University of Montana
 
 **Summary of Work Cycle**
 
-I had trouble trying to center my image with the txt in project-1 repo. I also did not like how light the text looked in the body of my poem. I experimented with trying to change the font size but was unable to get it to change like I wanted. So, I opted to make the text of the poem bold so that it would be more readable. I also was stumped when I linked the projec-1 repo and live because they did not show up blue after I made the links. I finally realized that they were underlined which indicates that they are linked properly.
+I had trouble trying to center my image with the txt in project-1 repo. I also did not like how light the text looked in the body of my poem. I experimented with trying to change the font size but was unable to get it to change like I wanted. So, I opted to make the text of the poem bold so that it would be more readable. I also was stumped when I linked the project-1 repo and live because they did not show up blue after I made the links. I finally realized that they were underlined which indicates that they are linked properly.
 
 I did not post any problems or issues to the repo. I am still new to this and am trying to figure out all of this. I do not feel confident enough with my own work yet to be helping my classmates out, with any issues, at this time.
 
