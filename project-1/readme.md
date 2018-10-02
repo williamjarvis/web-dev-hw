@@ -3,7 +3,7 @@
 
 I mainly use Mozilla Firefox web browser, and occasionally use Microsoft Edge.
 
-A browser, commonly known as a web browser, is a software application that enables users to access the internet by using URL identification search. This enables the web browser to connect with the URL source which then sends back the requested information to display the web page, video,and or image to display on the user's computer or device.
+A browser, commonly known as a web browser, is a software application that enables users to access the internet by using URL identification search. This enables the web browser to connect with the URL source which then sends back the requested information to display the web page, video, and/or image to display on the user's computer or device.
 
 I visited February 19, 1997 on the Wayback Machine, of the University of Montana archive site. The web page structure was basic and simple. I then visited the  February 14, 2018 archive site for the University of Montana. This web page is still simplistic in appearence but I could tell it had much more web design work to get it to look this way, with many more user friendly links, most likely due to the advancements in HTML and CSS over time.
 
