@@ -11,4 +11,4 @@ weeks now, so that I can control the look of my web pages the way in more enhanc
 
 3. My work cycle for this assignment was to do the tutorials and revi  the materials before starting. However, I did find myself using our textbook from time to time as reference, as I built the Project 2 website. There is so much to remember and I made many changes to get the site to look the way I wanted it to look. I put so many hours into this project that I was getting pretty loopie by the end.
 
-4. ![screenshot.png](./images/screenshot.PNG)
+ ![screenshot.png](./images/screenshot.PNG)
