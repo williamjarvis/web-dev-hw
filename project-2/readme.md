@@ -14,9 +14,6 @@ days to search the internet for a suitable Instructable project. Once I found a 
 that was easy to navigate through, has simple instructions, with large enough images and videos for the user to view. Function of
 the website and a well presented Instructable were the priorities. Style was secondary but also important. I believe in order to
 stimulate interest that the website should have a visual appeal as well. So, my goal with style was to have a background Image
-that went along with the rustic theme of the Instructable. I tried several wood background images but none seemed to work. I chose the burlap background image because the texture makes the div's pop, drawing to attention to the content of each page. The
-color of the burlap helps blend the page together with the oldlace color of the div's. While working on the website I found it
-necessary look up different things in our textbook. I spend many hours on this project combing back through the pages and
-making necessary changes to either correct things or to hone it into a better more functional website.
+that went along with the rustic theme of the Instructable. I tried several wood background images but none seemed to work. I chose the burlap background image because the texture makes the div's pop, drawing the eye to the content of each page. The color of the burlap helps blend the page together with the oldlace color of the div's. While working on the website I found it necessary look up different things in our textbook. I spend many hours on this project combing back through the pages and making necessary changes to either correct things or to hone it into a better more functional website.
 
  ![screenshot.png](./images/screenshot.PNG)
