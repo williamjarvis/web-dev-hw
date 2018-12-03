@@ -11,6 +11,7 @@ body {
        .container {
         align: center;
         background-color: transparent;
+        margin: auto;
         width: auto;
         height: auto;
        }
