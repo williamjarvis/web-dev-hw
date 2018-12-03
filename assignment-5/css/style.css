@@ -23,7 +23,7 @@ body {
          }
      /* box-one is Those Amazing 70s Were So.. text */
        #box-one {
-           font-style: normal;
+           font-size-adjust: auto: large;
            background-color: rgba(255, 215, 0, 0.5);
            text-align: center;
 
@@ -38,6 +38,7 @@ body {
        }
       /* box-three is "Groovy Man!" text */
        #box-three {
+           font-size-adjust: auto: large;
            background-color: rgba(255, 215, 0, 0.5);
            text-align: center;
        }
