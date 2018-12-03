@@ -12,6 +12,7 @@ body {
         align: center;
         background-color: transparent;
         width: auto;
+        height: fit-content;
        }
 
 
