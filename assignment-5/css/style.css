@@ -12,7 +12,7 @@ body {
         align: center;
         background-color: transparent;
         width: auto;
-        height: fit-content;
+        height: auto;
        }
 
 
@@ -45,15 +45,4 @@ body {
            font-size-adjust: auto: large;
            background-color: rgba(255, 215, 0, 0.5);
            text-align: center;
-       }
-
-       #lower_left {
-	        position: absolute;
-	        bottom: 0%;
-	        left: 0;
-       }
-       #lower_right {
-	        bottom: 0%;
-	        right: 0%;
-	        position: absolute;
        }
