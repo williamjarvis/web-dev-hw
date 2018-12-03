@@ -1,0 +1,43 @@
+body {
+        /* Used the transparency feature on the background color to blend and make textured graphics pop */
+         background-color: rgba(255, 215, 0, 0.5);
+        padding: 20;
+         text-align: center;
+         font-style: sans-serif;
+         font-size: 35;
+         color: black;
+       }
+
+       .container {
+        align: center;
+        background-color: transparent;
+       }
+
+       h2 {
+          color: rgb(107, 142, 40);
+
+        }
+     /* used em feature to give groovy man emphasis also used transparency to tone blend color with top text */
+       h1 em {
+         color: rgba(139, 69, 19, 0.67);
+         }
+     /* box-one is Those Amazing 70s Were So.. text */
+       #box-one {
+           font-style: normal;
+           background-color: rgba(255, 215, 0, 0.5);
+           text-align: center;
+
+       }
+      /* box-two is the peace image */
+       #box-two {
+           background-color: rgba(255, 215, 0, 0.5);
+           text-align: center;
+           width: 650px;
+           height: 500px;
+           position: absolute;
+       }
+      /* box-three is "Groovy Man!" text */
+       #box-three {
+           background-color: rgba(255, 215, 0, 0.5);
+           text-align: center;
+       }
