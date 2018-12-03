@@ -11,7 +11,9 @@ body {
        .container {
         align: center;
         background-color: transparent;
+        width: auto;
        }
+
 
        h2 {
           color: rgb(107, 142, 40);
