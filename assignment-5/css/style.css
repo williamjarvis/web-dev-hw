@@ -10,10 +10,10 @@ body {
 
        .container {
         align: center;
-        background-color: transparent;
+        /*background-color: transparent;
         margin: auto;
         width: auto;
-        height: auto;
+        height: auto;*/
        }
 
 
@@ -37,9 +37,9 @@ body {
        #box-two {
            background-color: rgba(255, 215, 0, 0.5);
            text-align: center;
-           width: 700px;
+           /*width: 700px;
            height: 680px;
-           position: absolute;
+           position: absolute;*/
        }
       /* box-three is "Groovy Man!" text */
        #box-three {
@@ -47,3 +47,42 @@ body {
            background-color: rgba(255, 215, 0, 0.5);
            text-align: center;
        }
+
+
+
+/* CHANGE SIZE OF PEACE SIGN, this will lessen the scrolling issue */
+#peace {
+  width: 50%;
+}
+/* POSITION AND SIZE FLOWERS, to get them where you want with cushion
+(in this case, using MARGINS, not PADDING) */
+#flower-top-left {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  margin: 10px;
+}
+#flower-top-right {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  right: 0;
+  margin: 10px;
+}
+#flower-bottom-left {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin: 10px;
+}
+#flower-bottom-right {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 10px;
+}
