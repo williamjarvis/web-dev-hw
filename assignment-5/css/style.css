@@ -76,7 +76,7 @@ body {
   position: absolute;
   left: 0;
   bottom: 0;
-  margin: 12px;
+  margin: 14px;
 }
 #flower-bottom-right {
   width: 15%;
@@ -84,5 +84,5 @@ body {
   position: absolute;
   right: 0;
   bottom: 0;
-  margin: 12px;
+  margin: 4px;
 }
