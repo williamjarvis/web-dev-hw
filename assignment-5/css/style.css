@@ -52,37 +52,37 @@ body {
 
 /* CHANGE SIZE OF PEACE SIGN, this will lessen the scrolling issue */
 #peace {
-  width: 50%;
+  width: 39%;
 }
 /* POSITION AND SIZE FLOWERS, to get them where you want with cushion
 (in this case, using MARGINS, not PADDING) */
 #flower-top-left {
-  width: 25%;
+  width: 19%;
   height: auto;
   position: absolute;
   left: 0;
   margin: 10px;
 }
 #flower-top-right {
-  width: 25%;
+  width: 19%;
   height: auto;
   position: absolute;
   right: 0;
   margin: 10px;
 }
 #flower-bottom-left {
-  width: 25%;
+  width: 19%;
   height: auto;
   position: absolute;
   left: 0;
   bottom: 0;
-  margin: 10px;
+  margin: 8px;
 }
 #flower-bottom-right {
-  width: 25%;
+  width: 19%;
   height: auto;
   position: absolute;
   right: 0;
   bottom: 0;
-  margin: 10px;
+  margin: 8px;
 }
