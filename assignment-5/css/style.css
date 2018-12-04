@@ -61,14 +61,14 @@ body {
   height: auto;
   position: absolute;
   left: 0;
-  margin: 15px;
+  margin: 25px;
 }
 #flower-top-right {
   width: 20%;
   height: auto;
   position: absolute;
   right: 0;
-  margin: 15px;
+  margin: 25px;
 }
 #flower-bottom-left {
   width: 20%;
