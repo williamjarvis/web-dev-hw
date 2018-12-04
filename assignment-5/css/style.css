@@ -24,7 +24,7 @@ body {
      /* used em feature to give groovy man emphasis also used transparency to tone blend color with top text */
        h1 em {
          color: rgba(139, 69, 19, 0.67);
-         font-size: 75px;
+         font-size: 70px;
          }
      /* box-one is Those Amazing 70s Were So.. text */
        #box-one {
