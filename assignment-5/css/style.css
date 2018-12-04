@@ -1,7 +1,7 @@
 body {
         /* Used the transparency feature on the background color to blend and make textured graphics pop */
         background-color: rgba(255, 215, 0, 0.5);
-        padding: 12px;
+        padding: 10px;
         text-align: center;
         font-style: sans-serif;
         font-size: 40px;
@@ -52,7 +52,7 @@ body {
 
 /* CHANGE SIZE OF PEACE SIGN, this will lessen the scrolling issue */
 #peace {
-  width: 40%;
+  width: 35%;
 }
 /* POSITION AND SIZE FLOWERS, to get them where you want with cushion
 (in this case, using MARGINS, not PADDING) */
