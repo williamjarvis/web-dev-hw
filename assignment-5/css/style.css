@@ -1,7 +1,7 @@
 body {
         /* Used the transparency feature on the background color to blend and make textured graphics pop */
         background-color: rgba(255, 215, 0, 0.5);
-        padding: 10px;
+        padding: 9px;
         text-align: center;
         font-style: sans-serif;
         font-size: 40px;
