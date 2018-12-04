@@ -57,21 +57,21 @@ body {
 /* POSITION AND SIZE FLOWERS, to get them where you want with cushion
 (in this case, using MARGINS, not PADDING) */
 #flower-top-left {
-  width: 15%;
+  width: 20%;
   height: auto;
   position: absolute;
   left: 0;
   margin: 12px;
 }
 #flower-top-right {
-  width: 15%;
+  width: 20%;
   height: auto;
   position: absolute;
   right: 0;
   margin: 12px;
 }
 #flower-bottom-left {
-  width: 15%;
+  width: 20%;
   height: auto;
   position: absolute;
   left: 0;
@@ -79,7 +79,7 @@ body {
   margin: 14px;
 }
 #flower-bottom-right {
-  width: 15%;
+  width: 20%;
   height: auto;
   position: absolute;
   right: 0;
