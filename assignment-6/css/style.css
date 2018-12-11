@@ -18,7 +18,7 @@ p, a {
 /* text container with different color from background to make it stand out */
 .text-container {
        background-color: rgb(253, 245, 230);
-       width: auto;
+       width: fit-content;
        margin: 4em;
        padding: 4em;
        border: 1px solid black;
