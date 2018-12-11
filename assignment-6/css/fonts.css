@@ -1,0 +1,11 @@
+/* From the Google Fonts Library */
+@import url('link href="https://fonts.googleapis.com/css?family=Playfair+Display" ');
+
+
+/* Self-Hosted From my Fonts Folder */
+@font-face {
+  font-family: 'PlayfairDisplay', serif;
+  src: url('../fonts/PlayfairDisplay.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

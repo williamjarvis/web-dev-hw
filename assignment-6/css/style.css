@@ -1,0 +1,122 @@
+/* css file  used PlayfairDisplay font because it goes with theme and is easy to read for viewer */
+* @font-face {
+  font-family: 'PlayfairDisplay', serif;
+  src: url('../fonts/PlayfairDisplay.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* used background color that gives feeling of the sea */
+body {
+  background-color: rgb(95, 158, 160);
+}
+p, a {
+  margin-bottom: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* text container with different color from background to make it stand out */
+.text-container {
+       background-color: rgb(253, 245, 230);
+       width: Auto;
+       margin: 5em;
+       padding: 4em;
+       border: 1px solid black;
+       border-radius: 6px;
+     }
+
+
+/* Title Content */
+#title {
+  text-align: center;
+  margin-bottom: 5em;
+}
+#title h1 {
+  font-size: 3em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: rgb(11, 44, 126);
+}
+#title h1::first-letter {
+  font-size: 2.5em;
+  vertical-align: middle;
+}
+
+#title h2 {
+ text-transform: uppercase;
+  font-size: 2.3em;
+  margin-top: -2.8em;
+  color: rgb( 0, 0, 0);
+}
+#title p {
+  font-style: bold italic;
+  font-size: 1.5em;
+}
+
+/* text specifications*/
+.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
+}
+.content p:first-child {
+  text-indent: 0;
+}
+.content p:first-of-type:first-letter {
+  font-family: 'PlayfairDisplay', serif;
+  font-size: 4em;
+  letter-spacing: 10px;
+  font-weight: 700;
+  color: rgb( 11, 44, 126);
+}
+
+
+/* Using italics for emphasis on stand out text */
+.emphasis {
+  font-style: italic;
+}
+
+first-offer .emphasis {
+  font-weight: 700;
+  color: rgb( 0, 0, 0);
+}
+/* Line Divider */
+.divider {
+  border-bottom: 2px solid rgb( 0, 0, 0);
+  width: 40%;
+  margin: 4em auto;
+}
+
+
+/* "Read More!" Button */
+#button-container {
+  width: 10em;
+  height: 4em;
+  margin: auto;
+}
+.button p {
+  font-size: 1.25em;
+  text-align: center;
+  color: rgb(253, 245, 230);
+}
+.button p:active {
+  color: rgb(127, 255, 212);
+}
+.button {
+  height: 100%;
+  background-color: rgb(11, 44, 126);
+  border-color: rgb(95, 158, 160);
+  border-width: 4px;
+  border-style: solid;
+}
+.button:hover {
+  background-color: rgb(169, 169, 169);
+  background-size: 40px 40px;
+  background-repeat: no-repeat;
+}
+.button:active {
+  background-color: rgb( 6, 26, 75);
+  border-color: rgb(95, 158, 160);
+  border-width: 8px;
+}
