@@ -64,7 +64,9 @@ p, a {
   text-indent: 0;
 }
 .content p:first-of-type:first-letter {
-  font-family: 'PlayfairDisplay', serif;
+  font-family: 'PT_Sans_Web-italic', serif;
+  src: url('../fonts/PT_Sans_Web-italic.ttf') format('truetype');
+  font-weight: normal;);
   font-size: 4em;
   letter-spacing: 10px;
   font-weight: 700;
