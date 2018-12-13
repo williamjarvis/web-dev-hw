@@ -1,7 +1,6 @@
 /* css file  used PlayfairDisplay font because it goes with theme and is easy to read for viewer */
 * @font-face {
-  font-family: 'PlayfairDisplay', serif;
-  src: url('../fonts/PlayfairDisplay.ttf') format('truetype');
+  font-family: 'Playfair Display', serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -64,13 +63,12 @@ p, a {
   text-indent: 0;
 }
 .content p:first-of-type:first-letter {
-  font-family: 'PT_Sans_Web-italic', serif;
-  src: url('../fonts/PT_Sans_Web-italic.ttf') format('truetype');
-  font-weight: normal;);
-  font-size: 4em;
-  letter-spacing: 10px;
-  font-weight: 700;
-  color: rgb( 11, 44, 126);
+ font-family: 'Aguafina Script', cur;
+ font-weight: normal;);
+ font-size: 4em;
+ letter-spacing: 10px;
+ font-weight: 700;
+ color: rgb( 11, 44, 126);
 }
 
 

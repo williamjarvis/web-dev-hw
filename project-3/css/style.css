@@ -1,0 +1,60 @@
+nt {
+   text-align: center;
+ font-style: serif;
+ font-size: 40px;
+ color:width: inherit;
+ margin: 0;}
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url(../images/stressedCoder.jpg);
+  background-size: cover;
+  margin: 0;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+ Name-title {
+    font-size-adjust: auto: large;
+    text-align: center;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.assignment-link {
+    margin: auto;
+    padding: 0.10em;
+    min-width: 75px;
+    font-size: 14pt;
+    color: #fff;
+    background-color: grey;
+    line-height: 2.1em;
+    text-align: center;
+}
+
+.assignment-link:hover {
+    background-color: lightblue;
+    color: #333;
+}
+
+.display-inline {
+    display: inline;
+}
+.display-inline-block {
+    display: inline-block;
+}
