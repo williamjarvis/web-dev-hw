@@ -1,8 +1,8 @@
 /* css file  used PlayfairDisplay font because it goes with theme and is easy to read for viewer */
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display')
 font-family: PlayfairDisplay;
-@import url('https://fonts.googleapis.com/css?family=Aguafina+Script')
-font-family: 'Aguafina Script', cursive;
+@import url('https://fonts.googleapis.com/css?family=Marck+Script')
+font-family: Marck Script, cursive;
 
 /* used background color that gives feeling of the sea */
 body {
@@ -62,7 +62,7 @@ p, a {
   text-indent: 0;
 }
 .content p:first-of-type:first-letter {
- font-family: 'Aguafina Script', cursive;
+ font-family: 'Marck Script', cursive;
  font-weight: normal;);
  font-size: 4em;
  letter-spacing: 10px;
