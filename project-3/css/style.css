@@ -1,60 +1,91 @@
-nt {
-   text-align: center;
- font-style: serif;
- font-size: 40px;
- color:width: inherit;
- margin: 0;}
+/*  font link */
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+/* body and background image */
 body {
+
   width: 100%;
   height: 100%;
   background-image: url(../images/stressedCoder.jpg);
   background-size: cover;
-  margin: 0;
+  border: 3px solid black;
+  margin: 0px;
   padding: 10px;
 }
-
 a {
-  text-decoration: none;
+ text-decoration: none;
 }
- Name-title {
-    font-size-adjust: auto: large;
-    text-align: center;
+  #container h1 p {
+ position: relative;
+  height: 10px;
+  width: 20px;
 
+}
+ .name-traits {
+  font-size: 4px;
+  text-align: left;
+}
+h1 {
+ background-color: rgba(255,255,255,.2);
+ font-family: sans-serif, cursive;
+  font-size: 40px;
+  text-align: left;
+  margin: 20px;
+  padding: relative;
+  color: rgb(127, 255, 212);
+}
+  p {
+background-color: rgba(255,255,255,.2);
+  font-family: 'Marck Script', cursive;
+   font-size: 30px;
+  text-align: left;
+  margin: 20px;
+  padding: relative;
+  color: rgb(127, 255, 212);
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  github-profile-link-container {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #FFFFFF;
+    border-radius: 100px;
+  /* positioning: */
+    float: right;
+    margin: 30px;
+    padding: 10px;
+  }
+  .github-profile-link-container:hover {
+    background-color: lightblue;
+  }
+  .github-profile-link-container>img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+  }
 
 .assignment-link {
-    margin: auto;
-    padding: 0.10em;
-    min-width: 75px;
+    Position: absolute;
+    top: -20px;
+    left: 0px;
+    margin: inherit;
+    padding: 0.25em;
+    min-width: 40px;
     font-size: 14pt;
-    color: #fff;
+    color: rgb(127, 255, 212);
     background-color: grey;
     line-height: 2.1em;
     text-align: center;
+
 }
 
-.assignment-link:hover {
+.assignment-link:hover a:hover {
     background-color: lightblue;
+    position: relative;
     color: #333;
 }
 
-.display-inline {
-    display: inline;
+ul {
+  list-style-type: none;
 }
-.display-inline-block {
-    display: inline-block;
+   li {
+    display: inline;
 }

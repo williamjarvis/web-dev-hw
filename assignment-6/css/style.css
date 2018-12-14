@@ -1,9 +1,9 @@
 /* css file  used PlayfairDisplay font because it goes with theme and is easy to read for viewer */
-* @font-face {
-  font-family: 'Playfair Display', serif;
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display')
+font-family: PlayfairDisplay;
+@import url('https://fonts.googleapis.com/css?family=Aguafina+Script')
+font-family: 'Aguafina Script', cursive;
+
 /* used background color that gives feeling of the sea */
 body {
   background-color: rgb(95, 158, 160);
@@ -42,7 +42,6 @@ p, a {
 }
 
 #title h2 {
- text-transform: uppercase;
   font-size: 2.3em;
   margin-top: -2.8em;
   color: rgb( 0, 0, 0);
@@ -63,7 +62,7 @@ p, a {
   text-indent: 0;
 }
 .content p:first-of-type:first-letter {
- font-family: 'Aguafina Script', cur;
+ font-family: 'Aguafina Script', cursive;
  font-weight: normal;);
  font-size: 4em;
  letter-spacing: 10px;
