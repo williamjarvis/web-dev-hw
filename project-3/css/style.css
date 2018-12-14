@@ -7,22 +7,18 @@ body {
   height: 100%;
   background-image: url(../images/stressedCoder.jpg);
   background-size: cover;
-  border: 3px solid black;
+  border: 1px solid black;
   margin: 0px;
-  padding: 10px;
+  padding: 1px;
 }
 a {
  text-decoration: none;
 }
-  #container h1 p {
- position: relative;
-  height: 10px;
-  width: 20px;
-
+ul {
+  list-style-type: none;
 }
- .name-traits {
-  font-size: 4px;
-  text-align: left;
+   li {
+    display: inline;
 }
 h1 {
  background-color: rgba(255,255,255,.2);
@@ -42,24 +38,43 @@ background-color: rgba(255,255,255,.2);
   padding: relative;
   color: rgb(127, 255, 212);
   }
+#box-1 {
+  width: 19%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  margin: 25px;
+  padding: relative;
+}
+#box-2 {
+  width: 19%;
+  height: auto;
+  position: absolute;
+  left: 0;
+  margin: 25px;
+  padding: relative;
+}
 
-  github-profile-link-container {
+  #box-3-github-profile-link-container {
     width: 20px;
     height: 20px;
+    position: absolute;
+    right: 0;
     border: 2px solid #FFFFFF;
     border-radius: 100px;
   /* positioning: */
-    float: right;
-    margin: 30px;
+    margin: 20px;
     padding: 10px;
   }
-  .github-profile-link-container:hover {
+  .#box-3-github-profile-link-container a:hover {
     background-color: lightblue;
   }
-  .github-profile-link-container>img {
+  .#box-3-github-profile-link-container-img {
     width: 30px;
     height: 30px;
     margin: 10px;
+     align: right;
+     float:right;
   }
 
 .assignment-link {
@@ -81,11 +96,4 @@ background-color: rgba(255,255,255,.2);
     background-color: lightblue;
     position: relative;
     color: #333;
-}
-
-ul {
-  list-style-type: none;
-}
-   li {
-    display: inline;
 }
