@@ -1,8 +1,8 @@
 /* css file  used PlayfairDisplay font because it goes with theme and is easy to read for viewer */
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display')
-font-family: PlayfairDisplay;
+font-family: PlayfairDisplay, sans-serif;
 @import url('https://fonts.googleapis.com/css?family=Marck+Script')
-font-family: Marck Script, cursive;
+font-family: Marck Script, cursive, sans-serif;
 
 /* used background color that gives feeling of the sea */
 body {
