@@ -1,99 +1,118 @@
 /*  font link */
 @import url('https://fonts.googleapis.com/css?family=Marck+Script');
-/* body and background image */
-body {
 
-  width: 100%;
-  height: 100%;
-  background-image: url(../images/stressedCoder.jpg);
-  background-size: cover;
-  border: 1px solid black;
-  margin: 0px;
-  padding: 1px;
+/*  added backgrond Image to darken the overall design */
+background-image: url("images/background.png");
+
+div {
+    opacity: 0.7;
+    font: 12px serif;
+}
+/* This is for the visual Image I photoshopped for this project */
+#photography{
+  width: 700px;
+  height: 410px;
+  align: center;
+}
+
+/* fonts for text */
+ h1 {
+font-family: serif;
+font-size: 40px;
+color: rgb(127, 255, 212);
+text-align: center;
+}
+h3 {
+  font-family: serif;
+  color: rgb(127, 255, 212);
+  text-align: center;
+}
+p {
+  font-family: 'Marck Script', cursive;
+  font-size: 23px;
+  color: rgb(127, 255, 212);
+  text-align: center;
+  padding: -20px;
 }
 a {
- text-decoration: none;
+  text-decoration: none;
+}
+/* Div section */
+#namediv {
+  z-index: -2;
+    height: 138px;
+    position: relative;
+    top: 30px;
+    border: 1px dashed grey;
+    background-color: grey;
+    margin: 0px 50px 0px 50px;
+    text-align: center;
+ }
+ #emptyleftdiv {
+   z-index: 5;
+  position: absolute;
+  width: 150px;
+  height: 700px;
+  top: 10px;
+  left: 10px;
+  border: 1px dashed grey;
+  background-color: rgb(143, 188, 139);
+
+  text-align: center;
+}
+  #imgdiv {
+    z-index: -3;
+     height: 425px;
+     position: relative;
+     top: 15px;
+     left: 0px;
+     border: 1px ;
+     background-color: rgb(0, 0, 0);
+     margin: 0px 50px 0px 50px;
+     text-align: center;
+}
+ #profilediv {
+   z-index: 1;
+  position: absolute;
+  width: 150px;
+  height: 700px;
+  top: 10px;
+  right: 10px;
+  border: 1px dashed grey;
+  background-color: rgb(143, 188, 139);
+
+  text-align: center;
+}
+#assignmentdiv {
+z-index: -2;
+  height: 110px;
+  border: 1px dashed grey;
+  background-color: grey;
+  margin: 0px 50px 0px 50px;
+  text-align: center;
+}
+/* Links, inline style, hover.. for assignments and Repo */
+.assignment-links {
+  position: relative;
+  top: 3px;
+  left: -21px;
 }
 ul {
   list-style-type: none;
 }
-   li {
-    display: inline;
+li {
+  display: inline;
 }
-h1 {
- background-color: rgba(255,255,255,.2);
- font-family: sans-serif, cursive;
-  font-size: 40px;
-  text-align: left;
-  margin: 20px;
-  padding: relative;
-  color: rgb(127, 255, 212);
+.assignment-links a {
+  font-size: 20px;
+  padding: 5px 7px;
+  background-color: grey;
+  border: 5px solid transparent;
+  color:  rgb(127, 255, 212);
+  font-weight: bold;
 }
-  p {
-background-color: rgba(255,255,255,.2);
-  font-family: 'Marck Script', cursive;
-   font-size: 30px;
-  text-align: left;
-  margin: 20px;
-  padding: relative;
-  color: rgb(127, 255, 212);
-  }
-#box-1 {
-  width: 19%;
-  height: auto;
-  position: absolute;
-  left: 0;
-  margin: 25px;
-  padding: relative;
-}
-#box-2 {
-  width: 19%;
-  height: auto;
-  position: absolute;
-  left: 0;
-  margin: 25px;
-  padding: relative;
-}
-
-  #box-3-github-profile-link-container {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    right: 0;
-    border: 2px solid #FFFFFF;
-    border-radius: 100px;
-  /* positioning: */
-    margin: 20px;
-    padding: 10px;
-  }
-  .#box-3-github-profile-link-container a:hover {
-    background-color: lightblue;
-  }
-  .#box-3-github-profile-link-container-img {
-    width: 30px;
-    height: 30px;
-    margin: 10px;
-     align: right;
-     float:right;
-  }
-
-.assignment-link {
-    Position: absolute;
-    top: -20px;
-    left: 0px;
-    margin: inherit;
-    padding: 0.25em;
-    min-width: 40px;
-    font-size: 14pt;
-    color: rgb(127, 255, 212);
-    background-color: grey;
-    line-height: 2.1em;
-    text-align: center;
-
-}
-
-.assignment-link:hover a:hover {
-    background-color: lightblue;
-    position: relative;
-    color: #333;
+.assignment-links a:hover {
+  border: 2px solid rgb(143, 188, 139);
+  position: relative;
+  bottom: 10px;
 }
